@@ -1,0 +1,22 @@
+Question,Answer
+What is Python?,Python is a high-level programming language.
+Who created Python?,Python was created by Guido van Rossum.
+When was Python released?,Python was first released in 1991.
+What is a variable in Python?,A variable stores data values.
+What is a list in Python?,A list is an ordered collection of items.
+What is a tuple in Python?,A tuple is an immutable collection of items.
+What is a dictionary in Python?,A dictionary stores key-value pairs.
+What is a function?,A function is a reusable block of code.
+What is a loop?,A loop repeats a block of code.
+What is a for loop?,A for loop iterates over a sequence.
+What is a while loop?,A while loop runs while a condition is true.
+What is an if statement?,An if statement performs conditional execution.
+What is a class?,A class is a blueprint for creating objects.
+What is OOP?,OOP stands for Object-Oriented Programming.
+What is inheritance?,Inheritance allows a class to inherit properties from another class.
+What is encapsulation?,Encapsulation hides implementation details.
+What is polymorphism?,Polymorphism allows objects to take multiple forms.
+What is a module?,A module is a file containing Python code.
+What is a package?,A package is a collection of Python modules.
+How do I install Python?,Download it from python.org and run the installer.
+...
